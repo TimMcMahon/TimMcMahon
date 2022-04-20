@@ -1,5 +1,12 @@
-### Hi there 👋
+Hi there 👋  
 
+I'm a Software Developer in Melbourne, Australia.  
+
+I’m currently building tools for Cyber Security teams.  
+
+[GitHub](https://github.com/TimMcMahon/)  
+[@_TimMcMahon](https://twitter.com/_TimMcMahon)  
+[LinkedIn](https://www.linkedin.com/in/tim-mcmahon/)  
 <!--
 **TimMcMahon/TimMcMahon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
