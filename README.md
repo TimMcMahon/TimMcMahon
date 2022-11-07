@@ -3,7 +3,7 @@ Hi there 👋
 I'm a Software Developer in Melbourne, Australia.  
 
 [GitHub](https://github.com/TimMcMahon/)  
-[@_TimMc](https://infosec.exchange/@TimMc)  
+[@TimMc](https://infosec.exchange/@TimMc)  
 [LinkedIn](https://www.linkedin.com/in/tim-mcmahon/)  
 <!--
 **TimMcMahon/TimMcMahon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
